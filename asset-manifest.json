@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/yashwanthramroyal/prods.git/static/css/main.34de6062.chunk.css",
+    "main.js": "/yashwanthramroyal/prods.git/static/js/main.a4986173.chunk.js",
+    "main.js.map": "/yashwanthramroyal/prods.git/static/js/main.a4986173.chunk.js.map",
+    "runtime-main.js": "/yashwanthramroyal/prods.git/static/js/runtime-main.853ae64a.js",
+    "runtime-main.js.map": "/yashwanthramroyal/prods.git/static/js/runtime-main.853ae64a.js.map",
+    "static/css/2.e082a319.chunk.css": "/yashwanthramroyal/prods.git/static/css/2.e082a319.chunk.css",
+    "static/js/2.5bd6c577.chunk.js": "/yashwanthramroyal/prods.git/static/js/2.5bd6c577.chunk.js",
+    "static/js/2.5bd6c577.chunk.js.map": "/yashwanthramroyal/prods.git/static/js/2.5bd6c577.chunk.js.map",
+    "index.html": "/yashwanthramroyal/prods.git/index.html",
+    "precache-manifest.27d8bd1bca2113451be641a71dc9c0bd.js": "/yashwanthramroyal/prods.git/precache-manifest.27d8bd1bca2113451be641a71dc9c0bd.js",
+    "service-worker.js": "/yashwanthramroyal/prods.git/service-worker.js",
+    "static/css/2.e082a319.chunk.css.map": "/yashwanthramroyal/prods.git/static/css/2.e082a319.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/yashwanthramroyal/prods.git/static/css/main.34de6062.chunk.css.map",
+    "static/media/all.min.css": "/yashwanthramroyal/prods.git/static/media/fa-solid-900.c2801fb4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.853ae64a.js",
+    "static/css/2.e082a319.chunk.css",
+    "static/js/2.5bd6c577.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.a4986173.chunk.js"
+  ]
+}
